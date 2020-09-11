@@ -27,8 +27,21 @@ FrontEnd: {
         `Pub/Jade`,
         `HandleBars`
       ]
-  Css: [`SCSS`, `SASS`, `LESS`, `Tailwind`]
-  UI-Frameworks: [`Bootstrap`, `Material-UI`, 'Vuetify', 'Elemental', `Metronic`, `Fuse`, `Ant-Design`]
+  Css: [
+        `SCSS`,
+        `SASS`,
+        `LESS`,
+        `Tailwind`
+      ]
+  UI-Frameworks: [
+        `Bootstrap`,
+        `Material-UI`,
+        'Vuetify',
+        'Elemental',
+        `Metronic`,
+        `Fuse`,
+        `Ant-Design`
+      ]
   others: [`3JS`] (In-Progress)
 }
 BackEnd: [`Node`] (learning...)
