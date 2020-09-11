@@ -18,7 +18,15 @@ Over the course of my career, I have worked on many small scale to large scale w
 ###Tech Stack
 ```
 FrontEnd: {
-  UI: [`React/Redux`, `Vue`, `NextJS`, `GatsbyJS`, `HTML`, `Pub/Jade`, `HandleBars`]
+  UI: [
+        `React/Redux`,
+        `Vue`,
+        `NextJS`,
+        `GatsbyJS`,
+        `HTML`,
+        `Pub/Jade`,
+        `HandleBars`
+      ]
   Css: [`SCSS`, `SASS`, `LESS`, `Tailwind`]
   UI-Frameworks: [`Bootstrap`, `Material-UI`, 'Vuetify', 'Elemental', `Metronic`, `Fuse`, `Ant-Design`]
   others: [`3JS`] (In-Progress)
