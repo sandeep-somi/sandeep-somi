@@ -2,7 +2,8 @@
 Hi,
 
 I'm Sandeep a JavaScript Developer from India, Currently working as a Senior Front-End Developer at tecHindustan.
-Over the course of my career, I have worked on many small scale to large scale web applications so far.
+
+Over the course of my career, I have worked on many small scale to large scale web applications.
 
 
 
