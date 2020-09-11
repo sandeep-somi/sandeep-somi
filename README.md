@@ -16,7 +16,8 @@ Over the course of my career, I have worked on many small scale to large scale w
 
 
 
-###Tech Stack
+##Tech Stack
+
 ```
 FrontEnd: {
   UI: [
