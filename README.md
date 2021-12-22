@@ -26,7 +26,7 @@ FrontEnd: {
         `NextJS`,
         `GatsbyJS`,
         `HTML`,
-        `Pub/Jade`,
+        `PugJS/Jade`,
         `HandleBars`
       ]
   Css: [
